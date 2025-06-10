@@ -3,3 +3,4 @@ Q1: Because it allows to save progress and history as well as allowing open sour
 Q2: Neuroscience! (I'm a double major)
 Q3: rebasing overwrites the split history into one line, while merging keeps
 history
+Q4: I wanna learn about ML!
